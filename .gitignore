@@ -1,0 +1,35 @@
+# Ignore virtual environment
+venv/
+videos/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# Logs
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# MuJoCo temporary files
+*.mjb
+*.xml.tmp
+
+# TensorBoard logs
+logs/
+runs/
