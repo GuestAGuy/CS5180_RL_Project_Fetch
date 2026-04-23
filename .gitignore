@@ -33,3 +33,7 @@ dist/
 # TensorBoard logs
 logs/
 runs/
+main.tex
+*.npz
+*.mp4
+*.pt
